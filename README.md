@@ -10,7 +10,9 @@ Con el compromiso de desarrollar una aplicación robusta y fácil de usar, nuest
 Esperamos contar con su apoyo y colaboración en este emocionante viaje hacia la innovación en el comercio electrónico de papelería.
 
 Documento solicitado con la información del proyecto
+Formato Imagenes
 https://github.com/FBurg0s/DPSCatedra/tree/7470e01b6724c464ee3469415e3179f5e30b66fe/ProyectoCatedra
+Formato PDF (Descargar PDF para visualizar)
 https://github.com/FBurg0s/DPSCatedra/blob/641a7adfb4e0ac5ebd941d1b9334b7a89e47abdf/ProyectoCatedraDPS.pdf
 
 Link de acceso a Notion donde se detallan las tareas a realizar en todo el tiempo de desarrollo de la aplicación Movil
